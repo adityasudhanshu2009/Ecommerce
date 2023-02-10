@@ -94,6 +94,7 @@ include("functions\common_function.php");
             <!-- fetching products -->
             <?php
             getProducts(); 
+            get_unique_products()
             
             ?>
             
